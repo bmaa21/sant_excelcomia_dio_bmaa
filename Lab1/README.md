@@ -1,4 +1,4 @@
-# sant_excel_dio_lab1
+# sant_excelcomia_dio_bmaa_lab1
 Lab1 DIO Bootcamp Santander Excel com IA: Criando uma Ferramenta de Controle de Investimentos com Excel
 
 # 🎯 **Objetivo do Aplicativo**
