@@ -6,7 +6,7 @@ Descrição do Objetivo do Arquivo:
 O Organizador de Declaração de Imposto de Renda – BMAA APP é uma planilha interativa desenvolvida em Excel com o objetivo de centralizar, padronizar e simplificar a coleta de todas as informações necessárias para a declaração anual do Imposto de Renda Pessoa Física (IRPF).
 Ele funciona como um assistente digital, conduzindo o usuário por cada etapa da declaração, evitando erros e garantindo que nenhum documento ou valor obrigatório seja esquecido.
 
-# **🎯 Objetivos Principais
+# **🎯 Objetivos Principais**
 ✅ 1. Reunir todos os dados pessoais exigidos pela Receita Federal
 A aba TÍTULAR permite consolidar:
 
@@ -61,5 +61,5 @@ O organizador foi criado para eliminar a confusão comum no período de declara�
 
 O objetivo é fazer com que, ao final, o usuário tenha um dossiê completo da sua vida financeira anual, pronto para ser enviado ao contador ou utilizado para preencher o software da Receita Federal sem imprevistos.
 
-#**🧾 Resumo**
+# **🧾 Resumo**
 O Organizador de Declaração de Imposto de Renda – BMAA APP é uma planilha inteligente criada para centralizar todas as informações necessárias para o preenchimento do IRPF. Ela reúne dados do titular, informes bancários, anexos, extratos de rendimento e valores mensais, organizando tudo de forma intuitiva e estruturada. O arquivo ajuda a evitar erros, garante que nenhum documento seja esquecido e agiliza todo o processo de declaração.
